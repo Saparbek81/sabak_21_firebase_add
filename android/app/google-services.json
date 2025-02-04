@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499440037778",
+    "project_id": "dome-965fa",
+    "storage_bucket": "dome-965fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499440037778:android:6c08d79f1d74ff8a2e9b4b",
+        "android_client_info": {
+          "package_name": "com.example.sabak_21_firebase_add"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyngs9P4FZusa4yVo1enSNtdSlJDamcm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
